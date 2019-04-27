@@ -235,7 +235,9 @@
     <Content Include="Content\alertifyjs\themes\semantic.rtl.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\bootstrap_Lumen.css" />
     <Content Include="Content\bootstrap_Lux.css" />
+    <Content Include="Content\bootstrap_SuperHero.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />

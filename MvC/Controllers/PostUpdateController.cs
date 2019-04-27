@@ -17,6 +17,8 @@ namespace MvC.Controllers
             HttpResponseMessage response = GlobalVariables.WepApiClient.GetAsync("Post_Update").Result;  
             postList = response.Content.ReadAsAsync<IEnumerable<mvcPostUpdateModel>>().Result;
             return View(postList);
-        }
+        } 
+
+
     }
 }
