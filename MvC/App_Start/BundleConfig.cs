@@ -24,7 +24,7 @@ namespace MvC
                       "~/Scripts/respond.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/bootstrap.css",
+                      "~/Content/bootstrap_Lux.css",
                       "~/Content/site.css"));
         }
     }
